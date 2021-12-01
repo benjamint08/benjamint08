@@ -9,4 +9,4 @@ These are just languages from my **public** repos. I have alot of private repos 
 
 # Languages I use:
 
-<img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/cs.png" width="30px"><img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/python.png" width="30px">
+<img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/cs.png" width="30px"><img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/python.png" width="30px" style="margin-left:5px">
