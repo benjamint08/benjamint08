@@ -4,7 +4,7 @@ I'm a small developer that likes to make web apps, games and also I love to play
 
 # Info
 
-<img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows">
+<img src="https://img.shields.io/badge/OS-Windows-blue?logo=microsoft">
 <img src="https://img.shields.io/badge/OS-macOS-blueviolet?logo=macos">
 <img src="https://img.shields.io/badge/IDE-WebStorm-important?logo=webstorm">
 <img src="https://img.shields.io/badge/Top%20Language-JavaScript-brightgreen?logo=javascript">
