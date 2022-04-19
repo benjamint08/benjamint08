@@ -1,12 +1,14 @@
-# Hey! <img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/wave.gif" width="30px"> Hello! I'm Pepper.
 
-I am a smol developer working with loads of different languages. I like building web stuff and Node.JS apps.
+I'm a small developer that likes to make web apps, games and also I love to play games.
 
-# Top Languages
+# Info
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamint08&theme=tokyonight" />
-These are just languages from my **public** repos. I have alot of private repos with differnet languages.
+<img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows">
+<img src="https://img.shields.io/badge/OS-macOS-blueviolet?logo=macos">
+<img src="https://img.shields.io/badge/IDE-WebStorm-important?logo=webstorm">
+<img src="https://img.shields.io/badge/Top%20Language-JavaScript-brightgreen?logo=javascript">
+<img src="https://img.shields.io/badge/Language-NodeJS-brightgreen?logo=nodedotjs">
+<img src="https://img.shields.io/badge/Language-Python-brightgreen?logo=python">
 
-# Languages I use:
-
-<img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/cs.png" width="30px"><img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/python.png" width="30px" style="margin-left:5px">
+# That's it, I guess.
