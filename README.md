@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/wave.gif" width="30px"> Hello! I'm Pepper.
+# <img src="https://raw.githubusercontent.com/benjamint08/benjamint08/master/wave.gif" width="30px"> Hello, I'm Pepper.
 
 I'm a small developer that likes to make web apps, games and also loves to play games.
 
