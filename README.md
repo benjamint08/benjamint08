@@ -11,4 +11,8 @@ I'm a small developer that likes to make web apps, games and also I love to play
 <img src="https://img.shields.io/badge/Language-NodeJS-brightgreen?logo=nodedotjs">
 <img src="https://img.shields.io/badge/Language-Python-brightgreen?logo=python">
 
-# That's it, I guess.
+# Contact Info
+* **Email:** [ben@benframework.com](mailto:ben@benframework.com)
+* **Twitter:** [@benjamint08](https://twitter.com/benjamint08)
+* **Website:** [soon](about:blank)
+* **Discord:** Pepper.#0001
