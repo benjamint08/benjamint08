@@ -12,7 +12,7 @@ I'm a small developer that likes to make web apps, games and more.
 <img src="https://img.shields.io/badge/Language-Python-brightgreen?logo=python">
 
 # Contact Info
-* **Email:** [ben@benframework.com](mailto:ben@benframework.com)
+* **Email:** [pepper@pepperdot.me](mailto:pepper@pepperdot.me)
 * **Twitter:** [@benjamint08](https://twitter.com/benjamint08)
-* **Website:** [soon](about:blank)
+* **Website:** [pepperdot.me](https://pepperdot.me)
 * **Discord:** Pepper.#0001
