@@ -15,4 +15,4 @@ I'm a small developer that likes to make web apps, games and more.
 * **Email:** [pepper@pepperdot.me](mailto:pepper@pepperdot.me)
 * **Twitter:** [@benjamint08](https://twitter.com/benjamint08)
 * **Website:** [pepperdot.me](https://pepperdot.me)
-* **Discord:** Pepper.#0001
+* **Discord:** Pepper.#1003
