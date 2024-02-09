@@ -36,8 +36,9 @@ I enjoy working with a wide range of technologies and tools. Here are some of my
 Here are some of my notable projects:
 
 1. [pavlov-rcon](https://github.com/p3pr/pavlov-rcon) - A simple RCON client for Pavlov VR.
-2. [PasswordSaver](https://github.com/benjamint08/passwordsaver) - A semi-secure password encryptor.
-3. [eshare](https://github.com/benjamint08/eshare) - A screenshotting app made in Electron. (node)
+2. [PowerOutageTwilio](https://github.com/benjamint08/PowerOutageTwilio) - A program for Raspberry Pi 4B to alert when the power goes out using Twilio.
+3. [PasswordSaver](https://github.com/benjamint08/passwordsaver) - A semi-secure password encryptor.
+4. [eshare](https://github.com/benjamint08/eshare) - A screenshotting app made in Electron. (node)
 
 ### 📫 Get in Touch
 
