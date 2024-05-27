@@ -14,7 +14,7 @@
 
 I'm a passionate developer with expertise in Node.js, PlainJS, Python, Roblox Lua, React, and Nuxt.js. I love creating innovative projects and exploring new technologies. Here's a little more about me:
 
-- 🔭 Currently working on [c0ver](https://github.com/c0verlabs)
+- 🔭 Currently working on [Audiory](https://audiory.me)
 - 🌱 Learning [Nuxt.JS](https://nuxt.com)
 - ⚡ Fun fact: My first website was coded in Python!
 
@@ -23,7 +23,7 @@ I'm a passionate developer with expertise in Node.js, PlainJS, Python, Roblox Lu
 I enjoy working with a wide range of technologies and tools. Here are some of my favorites:
 
 - **Languages**: Node.js, JavaScript, Python, Roblox Lua
-- **Frontend**: React, HTML, CSS
+- **Frontend**: React, Next, HTML, CSS
 - **Backend**: Express.js
 - **Database**: MongoDB
 - **Framework**: Nuxt.js
@@ -45,3 +45,5 @@ Here are some of my notable projects:
 - Discord: [p3pr](https://discord.com/users/284997048061788161)
 
 Feel free to connect with me and explore my projects! 🚀
+
+![Audiory Profile](https://audiory.me/api/embed/dev)
