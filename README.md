@@ -45,5 +45,3 @@ Here are some of my notable projects:
 - Discord: [p3pr](https://discord.com/users/284997048061788161)
 
 Feel free to connect with me and explore my projects! 🚀
-
-[![Audiory Profile](https://audiory.me/api/embed/dev?)](https://audiory.me/u/dev)
