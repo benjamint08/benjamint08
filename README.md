@@ -22,6 +22,7 @@ I'm a passionate developer with expertise in Node.js, PlainJS, Python, Roblox Lu
 
 I enjoy working with a wide range of technologies and tools. Here are some of my favorites:
 
+- **Hosting/Deployments**: [Vessyl](https://vessyl.app), Vercel, Railway
 - **Languages**: Node.js, JavaScript, Python, Roblox Lua
 - **Frontend**: React, Next, HTML, CSS
 - **Backend**: Express.js, Hono
