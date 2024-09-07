@@ -12,10 +12,10 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer with expertise in Node.js, PlainJS, Python, Roblox Lua, React, and Nuxt.js. I love creating innovative projects and exploring new technologies. Here's a little more about me:
+I'm a passionate developer with expertise in Node.js, PlainJS, Python, Roblox Lua, React, and Next.js. I love creating innovative projects and exploring new technologies. Here's a little more about me:
 
-- 🔭 Currently working on [Audiory](https://audiory.me)
-- 🌱 Learning [Nuxt.JS](https://nuxt.com)
+- 🔭 Currently working on [Vessyl](https://vessyl.app)
+- 🌱 Learning nothing right now.
 - ⚡ Fun fact: My first website was coded in Python!
 
 ### 🛠️ Technologies & Tools
@@ -24,9 +24,9 @@ I enjoy working with a wide range of technologies and tools. Here are some of my
 
 - **Languages**: Node.js, JavaScript, Python, Roblox Lua
 - **Frontend**: React, Next, HTML, CSS
-- **Backend**: Express.js
+- **Backend**: Express.js, Hono
 - **Database**: MongoDB
-- **Framework**: Nuxt.js
+- **Framework**: Next.js
 - **Version Control**: Git
 - **Editor**: WebStorm
 - **Operating System**: Windows, Mac, Linux
